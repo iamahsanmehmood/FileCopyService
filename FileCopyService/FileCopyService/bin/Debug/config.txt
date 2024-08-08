@@ -1,0 +1,2 @@
+SourceFolder=C:\Users\ADMIN\Documents
+DestinationFolder=D:\Other

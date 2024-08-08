@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\FileCopyService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD2C975-8213-458C-92AF-E24185CFF0D3}|FileCopyService\\FileCopyService.csproj|c:\\users\\admin\\source\\repos\\filecopyservice\\filecopyservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD2C975-8213-458C-92AF-E24185CFF0D3}|FileCopyService\\FileCopyService.csproj|solutionrelative:filecopyservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD2C975-8213-458C-92AF-E24185CFF0D3}|FileCopyService\\FileCopyService.csproj|C:\\Users\\ADMIN\\source\\repos\\FileCopyService\\filecopyservice\\config.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CCD2C975-8213-458C-92AF-E24185CFF0D3}|FileCopyService\\FileCopyService.csproj|solutionrelative:filecopyservice\\config.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD2C975-8213-458C-92AF-E24185CFF0D3}|FileCopyService\\FileCopyService.csproj|C:\\Users\\ADMIN\\source\\repos\\FileCopyService\\filecopyservice\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD2C975-8213-458C-92AF-E24185CFF0D3}|FileCopyService\\FileCopyService.csproj|solutionrelative:filecopyservice\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD2C975-8213-458C-92AF-E24185CFF0D3}|FileCopyService\\FileCopyService.csproj|C:\\Users\\ADMIN\\source\\repos\\FileCopyService\\filecopyservice\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCD2C975-8213-458C-92AF-E24185CFF0D3}|FileCopyService\\FileCopyService.csproj|solutionrelative:filecopyservice\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD2C975-8213-458C-92AF-E24185CFF0D3}|FileCopyService\\FileCopyService.csproj|C:\\Users\\ADMIN\\source\\repos\\FileCopyService\\filecopyservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CCD2C975-8213-458C-92AF-E24185CFF0D3}|FileCopyService\\FileCopyService.csproj|solutionrelative:filecopyservice\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCD2C975-8213-458C-92AF-E24185CFF0D3}|FileCopyService\\FileCopyService.csproj|C:\\Users\\ADMIN\\source\\repos\\FileCopyService\\filecopyservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCD2C975-8213-458C-92AF-E24185CFF0D3}|FileCopyService\\FileCopyService.csproj|solutionrelative:filecopyservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "config.txt",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\FileCopyService\\FileCopyService\\config.txt",
+              "RelativeDocumentMoniker": "FileCopyService\\config.txt",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\FileCopyService\\FileCopyService\\config.txt",
+              "RelativeToolTip": "FileCopyService\\config.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-08T05:42:25.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\FileCopyService\\FileCopyService\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "FileCopyService\\ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\FileCopyService\\FileCopyService\\ProjectInstaller.cs",
+              "RelativeToolTip": "FileCopyService\\ProjectInstaller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:41:01.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectInstaller.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\FileCopyService\\FileCopyService\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "FileCopyService\\ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\FileCopyService\\FileCopyService\\ProjectInstaller.cs [Design]",
+              "RelativeToolTip": "FileCopyService\\ProjectInstaller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:40:18.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\FileCopyService\\FileCopyService\\Service1.cs",
+              "RelativeDocumentMoniker": "FileCopyService\\Service1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\FileCopyService\\FileCopyService\\Service1.cs",
+              "RelativeToolTip": "FileCopyService\\Service1.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAUwGMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:39:07.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\FileCopyService\\FileCopyService\\Service1.cs",
+              "RelativeDocumentMoniker": "FileCopyService\\Service1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\FileCopyService\\FileCopyService\\Service1.cs [Design]",
+              "RelativeToolTip": "FileCopyService\\Service1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:39:01.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\FileCopyService\\FileCopyService\\Program.cs",
+              "RelativeDocumentMoniker": "FileCopyService\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\FileCopyService\\FileCopyService\\Program.cs",
+              "RelativeToolTip": "FileCopyService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T05:36:25.906Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

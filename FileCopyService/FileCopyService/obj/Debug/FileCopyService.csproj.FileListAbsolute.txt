@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\FileCopyService\FileCopyService\bin\Debug\FileCopyService.exe
+C:\Users\ADMIN\source\repos\FileCopyService\FileCopyService\bin\Debug\config.txt
+C:\Users\ADMIN\source\repos\FileCopyService\FileCopyService\bin\Debug\FileCopyService.exe.config
+C:\Users\ADMIN\source\repos\FileCopyService\FileCopyService\bin\Debug\FileCopyService.exe.manifest
+C:\Users\ADMIN\source\repos\FileCopyService\FileCopyService\bin\Debug\FileCopyService.application
+C:\Users\ADMIN\source\repos\FileCopyService\FileCopyService\obj\Debug\FileCopyService.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\FileCopyService\FileCopyService\obj\Debug\FileCopyService.ProjectInstaller.resources
+C:\Users\ADMIN\source\repos\FileCopyService\FileCopyService\obj\Debug\FileCopyService.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\FileCopyService\FileCopyService\obj\Debug\FileCopyService.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\FileCopyService\FileCopyService\obj\Debug\FileCopyService.exe.manifest
+C:\Users\ADMIN\source\repos\FileCopyService\FileCopyService\obj\Debug\FileCopyService.application
+C:\Users\ADMIN\source\repos\FileCopyService\FileCopyService\obj\Debug\FileCopyService.exe
+C:\Users\ADMIN\source\repos\FileCopyService\FileCopyService\obj\Debug\FileCopyService.pdb
+C:\Users\ADMIN\source\repos\FileCopyService\FileCopyService\bin\Debug\FileCopyService.pdb
