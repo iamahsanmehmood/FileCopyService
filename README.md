@@ -53,3 +53,33 @@
 - **Stop the Service**: To stop the service, run:
   ```shell
   net stop FileCopyService
+
+- **Uninstall the Service**: To uninstall the service, run:
+  ```shell
+  sc delete FileCopyService
+
+## Troubleshooting
+
+- **File Permission Issues**: Ensure that the service has permission to read from the source folder and write to the destination folder.
+- **Service Not Starting**: Check the Windows Event Viewer under Windows Logs > Application for any error messages related to the service.
+
+## Contributing
+
+- Contributions are welcome! If you have suggestions or improvements, feel free to create a pull request or open an issue.
+
+## License
+- This project is licensed under the MIT License - see the LICENSE file for details.
+- 
+## Contributing
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Create a new Pull Request.
+
+## Contact
+
+If you have any questions or issues, please open an issue in the repository.
+
+---
